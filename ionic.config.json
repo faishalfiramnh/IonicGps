@@ -1,0 +1,7 @@
+{
+  "name": "TrackingLokal",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
